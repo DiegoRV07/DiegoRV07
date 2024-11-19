@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-#### I'm Diego Ruiz Valencia. A passionate student trying to break into the tech world as a Software Developer.
+#### I'm Diego Ruiz Valencia. A passionate student trying to break into the tech world as a Software Engineer.
 
 ### About Me
 
