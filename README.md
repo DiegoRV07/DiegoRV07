@@ -5,7 +5,8 @@
 ### About Me
 
 -  **Education :** Junior studying Computer Science at The University of North Carolina Wilmington 🌊
--  **Working :** Web Developer for Futuros en Stem 🟦
+-  **Working :** Web Development Assistant at UNCW 🦅
+-  **Clubs :** Lead Web Developer for Futuros en Stem 🟦
 -  **Future/Active Projects :** Personal Portfolio with React 🤵 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 -  **Hobbies :** Soccer ⚽ & Bowling 🎳 
 
